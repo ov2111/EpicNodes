@@ -29,4 +29,6 @@ Team Epic Nodes will focus on developing a blockchain application to manage mass
 
 **Erik Gabbard**, Sr. .NET Developer (St. Louis) - erikgabbard@gmail.com
 
-Denika McPherson, RN, BScN, CNCC(C), MN-NP PHC Student (Ontario) - denika.mcp@gmail.com
+Denika McPherson, RN, BScN, CNCC(C), MN-NP PHC Student with Collaborative Specialization in Resuscitation Sciences (Ontario) - denika.mcp@gmail.com
+
+**Olivia Velez**, PhD MS MPH RN, Nurse Informaticist (New York) - livvel@gmail.com
